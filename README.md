@@ -31,7 +31,7 @@ while True:
  ClientMessage=c.recv(1024).decode()
  c.send(ClientMessage.encode())
 ```
-## OUPUT
+## OUTPUT
 <img width="620" height="236" alt="image" src="https://github.com/user-attachments/assets/ba1624a7-e9eb-4a3a-9460-d921e5397877" />
 
 ## RESULT
